@@ -1,0 +1,28 @@
+img,a{
+    display:block;
+
+}
+.main{
+    align-items: center;
+    align-content: center;
+}
+input{
+    display:block;
+    margin-bottom:20px;
+}
+label[for="yesOrNo"]{
+    color:20%;
+
+}
+textarea{
+    border-style: groove;
+    border-color: aqua;
+}
+input[type="submit"]:hover{
+    background-color: blueviolet;
+}
+
+table:hover{
+    border-color: rgb(210,110,95);
+
+}
